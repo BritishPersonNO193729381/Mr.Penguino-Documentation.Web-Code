@@ -1,1 +1,29 @@
-site_name: My Docs
+site_name: Mr.Penguino-Documentation
+
+nav:
+  - HomePage: index.md
+  - Introduction to Commands: Commands-Intro.md
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  features:
+    - palette
+    - toggle
