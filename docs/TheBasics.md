@@ -48,6 +48,18 @@ The options for this command are:
 
 Now, I _did_ have the opportunity to make another option to choose different measurements of time. However, I feel like it would make using the command ALOT more easier for most users if there is just one measurement rather than 3 or 4.
 
+### /translate
+
+This slash command is able to translate to AND from International Morse Code freely using a new type of option. This new option (instead of letting you write anything inside of it) gives the users two options INSIDE of that option. This isnt too complicated though. So, I have faith in you that you will be able to figure it out ^^
+
+Speaking of options, here they are:
+
+- Mode; This is the option that gives you the option wether or not to choose to translate to morse code OR from morse code.
+
+- text; This is where you either put your message you want to translate OR morse code to translate to plain english/latin
+
+This command can be useful for anyone trying to bypass automod features within the bot, saying bad things in secret OR if you are just plain curious! The command was also designed mainly to be as basic as it can be so that most users dont find it too much of a struggle to use. So, sadly, the command will only push out english translations or any other language that can be spelt out using the standard english alphabet.
+
 ## Log Commands
 
 ### /setlog
