@@ -3,6 +3,7 @@ site_name: Mr.Penguino-Documentation
 nav:
   - HomePage: index.md
   - Introduction to Commands: Commands-Intro.md
+  - The Basics: TheBasics.md
 
 theme:
   name: material
